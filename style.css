@@ -1,0 +1,47 @@
+h1{
+   color:blue;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   text-align: center;
+   background-color: aqua;   
+}
+
+h2{
+   color: #66ec0d;
+   font-style: italic;
+   background-color: black;
+}
+body{
+   background-color: blanchedalmond;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+table,th,td{
+   color:red;
+   font-size: 20px;
+   background-color: aliceblue;
+   border: 1px solid black;
+}
+.p2{
+   background-color: #66ec0d;
+   text-align: auto;
+   font-weight: 600;
+   text-transform: uppercase;
+   float: right;   
+   border: 3px solid black;
+   position: relative;
+  
+}
+.o1{
+   color: #3b07f8;
+   background-color: rgb(237, 233, 21);
+}
+.f1 {
+   padding: 20px;
+   background-color: aquamarine;
+}
+.nbr{
+   background-color: #fefe05;
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   border: 5px solid rgb(0, 255, 247);
+   display: inline-block;
+   font-size: larger;
+}
